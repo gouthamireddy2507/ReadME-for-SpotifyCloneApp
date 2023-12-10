@@ -58,7 +58,7 @@ Follow these steps to set up the project on your local machine:
 2. Choose between creating an account or logging in.
 3. After logging in, choose options to search for songs, play favorites, or log out.
 
-![Block Diagram](https://drive.google.com/file/d/1ODj8PS7gFy1V5R50uFDwAVfDLgvAOni8/view?usp=sharing)
+![Block Diagram](https://drive.google.com/file/d/1ODj8PS7gFy1V5R50uFDwAVfDLgvAOni8/view?usp=drive_linK)
 
 
 ## Credits
