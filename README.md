@@ -66,4 +66,4 @@ Follow these steps to set up the project on your local machine:
 - This application utilizes the Spotify and YouTube APIs.
 - The `nlohmann/json` library for JSON parsing.
 - `MPV` and `CURL`
-- Avval and Co.
+- Avval Halani, Don Maria Das, Gouthami Reddy, Vidya Peddinti, and Vijayasree Asam (Avval and Co.)
